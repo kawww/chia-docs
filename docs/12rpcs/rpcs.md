@@ -43,6 +43,10 @@ For examples of usage, see the command line implementation (chia wallet, chia sh
 A javascript client can be found here: https://github.com/Chia-Mine/chia-agent.
 There is also another client here: https://github.com/freddiecoleman/chia-client.
 
+### Php
+
+Php examples (wallet and offer) https://github.com/chia-toolkit/curl
+
 ## Services
 The service RPC APIs are documented in the following sections:
 TODO: add links here and create the other sections
